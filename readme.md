@@ -4,4 +4,4 @@ The point of it was only to familiarize myself a little with C# basics.
 
 It should be easy to take what's in SpriteGen and put it in any game engine that uses C#.
 
-See also: [Shogan's port of this same algorithm for Unity](https://github.com/Shogan/PixelSpriteGenerator-Unity).
+See also: [Shogan's port of this same algorithm for Unity](https://github.com/Shogan/PixelSpriteGenerator-Unity) and [my other port for Java + libGDX](https://github.com/BenMcLean/pixel-sprite-generator-libgdx)
